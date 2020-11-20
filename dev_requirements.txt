@@ -1,0 +1,14 @@
+csv
+coverage==4.4.2
+pytest<5.0.0 # drops compatibility with python 2
+docutils==0.13.1
+Jinja2==2.9.6
+markupsafe==1.0
+Pygments==2.2.0
+Sphinx==1.5.5
+sphinxcontrib-httpdomain==1.5.0
+sphinx-rtd-theme==0.2.4
+sphinx-autobuild
+tornado==4.1
+numpy
+pandas
